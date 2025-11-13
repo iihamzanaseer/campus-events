@@ -1,22 +1,22 @@
 21
-45C:\Users\Ali\Desktop\campus-events\Dockerfile134074925795090150 0
-41C:\Users\Ali\Desktop\campus-events\styles134074925795173821 1
-48C:\Users\Ali\Desktop\campus-events\.dockerignore134074925795053280 0
-45C:\Users\Ali\Desktop\campus-events\.gitignore134074925795077033 0
-47C:\Users\Ali\Desktop\campus-events\package.json134074930521520282 0
-39C:\Users\Ali\Desktop\campus-events\dist134074930615529052 1
-44C:\Users\Ali\Desktop\campus-events\README.md134074925795090150 0
-38C:\Users\Ali\Desktop\campus-events\src134074925795153243 1
-51C:\Users\Ali\Desktop\campus-events\styles\style.css134074925795173821 0
-49C:\Users\Ali\Desktop\campus-events\src\about.html134074928446235464 0
-51C:\Users\Ali\Desktop\campus-events\src\contact.html134074925795129181 0
-50C:\Users\Ali\Desktop\campus-events\src\events.html134074925795139247 0
-51C:\Users\Ali\Desktop\campus-events\src\gallery.html134074925795143202 0
-49C:\Users\Ali\Desktop\campus-events\src\index.html134074925795153243 0
-50C:\Users\Ali\Desktop\campus-events\dist\about.html134074930615431458 0
-66C:\Users\Ali\Desktop\campus-events\dist\campus-events.c83ab8f7.css134074930615431458 0
-70C:\Users\Ali\Desktop\campus-events\dist\campus-events.c83ab8f7.css.map134074930615519037 0
-52C:\Users\Ali\Desktop\campus-events\dist\contact.html134074930615302879 0
-51C:\Users\Ali\Desktop\campus-events\dist\events.html134074930615161819 0
-52C:\Users\Ali\Desktop\campus-events\dist\gallery.html134074930615384006 0
-50C:\Users\Ali\Desktop\campus-events\dist\index.html134074930615431458 0
+58C:\Users\HP\Documents\7th Semester\A2\campus-events\styles134075359005569889 1
+65C:\Users\HP\Documents\7th Semester\A2\campus-events\.dockerignore134075359005215025 0
+64C:\Users\HP\Documents\7th Semester\A2\campus-events\package.json134075359005486725 0
+62C:\Users\HP\Documents\7th Semester\A2\campus-events\.gitignore134075359005230237 0
+67C:\Users\HP\Documents\7th Semester\A2\campus-events\src\events.html134075359427986715 0
+55C:\Users\HP\Documents\7th Semester\A2\campus-events\src134075359428031376 1
+68C:\Users\HP\Documents\7th Semester\A2\campus-events\dist\events.html134075361900059965 0
+87C:\Users\HP\Documents\7th Semester\A2\campus-events\dist\campus-events.c83ab8f7.css.map134075361900725288 0
+56C:\Users\HP\Documents\7th Semester\A2\campus-events\dist134075361900815844 1
+66C:\Users\HP\Documents\7th Semester\A2\campus-events\src\about.html134075359005502747 0
+68C:\Users\HP\Documents\7th Semester\A2\campus-events\styles\style.css134075359005569889 0
+62C:\Users\HP\Documents\7th Semester\A2\campus-events\Dockerfile134075359005460594 0
+61C:\Users\HP\Documents\7th Semester\A2\campus-events\README.md134075359005476503 0
+68C:\Users\HP\Documents\7th Semester\A2\campus-events\src\contact.html134075361308153599 0
+68C:\Users\HP\Documents\7th Semester\A2\campus-events\src\gallery.html134075359428031376 0
+66C:\Users\HP\Documents\7th Semester\A2\campus-events\src\index.html134075359005549680 0
+67C:\Users\HP\Documents\7th Semester\A2\campus-events\dist\about.html134075361900570578 0
+83C:\Users\HP\Documents\7th Semester\A2\campus-events\dist\campus-events.c83ab8f7.css134075361900570578 0
+69C:\Users\HP\Documents\7th Semester\A2\campus-events\dist\contact.html134075361900570578 0
+69C:\Users\HP\Documents\7th Semester\A2\campus-events\dist\gallery.html134075361900355512 0
+67C:\Users\HP\Documents\7th Semester\A2\campus-events\dist\index.html134075361900570578 0
